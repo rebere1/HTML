@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(143, 143, 143);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid black;
+    margin:30px;
+    padding: 40px;
+}
+
+p.head {
+
+    text-decoration: underline;
+    
+    }
+h1{
+ line-height: 0.3;   
+}
+h3{
+    text-indent: 2px;
+}
+nav{
+    
+}
+img{
+    display:block ;
+    width: 35%;
+
+}
+.myDiv{
+    color: rgb(249, 195, 204);
+}
+.Photohigh{
+    color: rgb(255, 177, 190);
+}
